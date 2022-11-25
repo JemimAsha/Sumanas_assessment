@@ -17,7 +17,7 @@ git clone https://github.com/JemimAsha/Sumanas_assessment.git
 
 create .env file with your database credentials 
 
-stripe Api Keys in .env
+Add stripe Api Keys in .env
 
 `php artisan key:generate`
 
