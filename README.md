@@ -15,9 +15,11 @@ git clone https://github.com/JemimAsha/Sumanas_assessment.git
 
 `npm install && npm run build`
 
-update .env file with your database credentials
+create .env file with your database credentials 
 
-update .env file with your stripe Api Keys
+stripe Api Keys in .env
+
+`php artisan key:generate`
 
 `php artisan migrate --seed`
 
